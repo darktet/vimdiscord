@@ -60,6 +60,7 @@ thumbnails = {
     'jl': 'Julia',
     'dart': 'Dart',
     'pp': 'Pascal',
+    'sql': 'SQL',
 }
 
 
